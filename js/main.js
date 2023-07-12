@@ -26,7 +26,7 @@ const PI = 3.1416;
 let radio = 0;
 let area;
 
-// Ciclo y flujo de control.
+//Ciclo y flujo de control.
 
 while (area != 0) {
     
